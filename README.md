@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rizqi Azizissani</h1>
-<h3 align="center">A passionate mobile developer enthusiast from Sidoarjo, Indonesia</h3>
+<h3 align="center">A passionate Mobile Developer and UI/UX Designer enthusiast from Sidoarjo, Indonesia</h3>
 
-- 🌱 I’m currently learning **Dicoding Bangkit Academy 2023 H2**
+- 🌱 I’m Graduate Mobile Development **Dicoding Bangkit Academy 2023 H2**
+- 🌱 I’m currently learning UI/UX Designer **Alterra Academy 2024**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
